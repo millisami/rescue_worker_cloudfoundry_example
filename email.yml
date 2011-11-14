@@ -1,0 +1,15 @@
+development_out:
+  :address: yourserver
+  :port: 587
+  :authentication: plain
+  :user_name: username
+  :password: password
+  :enable_starttls_auto: false
+
+production_out:
+  :address: yourserver
+  :port: 587
+  :authentication: plain
+  :user_name: username
+  :password: password
+  :enable_starttls_auto: false
